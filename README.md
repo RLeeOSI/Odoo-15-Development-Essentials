@@ -1,2 +1,2 @@
-# Odoo-14-Development-Essentials
-Odoo 14 Development Essentials, published by Packt
+# Odoo-17-Development-Essentials
+Odoo 17 Development Essentials, published by Packt
