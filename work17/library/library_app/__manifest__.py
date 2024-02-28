@@ -8,6 +8,7 @@
     "version": "17.0.1.0.0",
     "depends": ["base"],
         "data": [
+        "security/library_security.xml",
         "views/library_menu.xml",
     ],
     "application": True,
